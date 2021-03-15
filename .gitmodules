@@ -1,0 +1,3 @@
+[submodule "pandora-dependencies"]
+	path = pandora-dependencies
+	url = https://github.com/seven-boot/pandora-dependencies.git
